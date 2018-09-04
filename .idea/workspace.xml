@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="56f0f50a-b6af-435f-b0b8-5bba199846dc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/3.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,8 +61,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="408">
+              <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -207,12 +203,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534315746587</updated>
       <workItem from="1534315747754" duration="797000" />
-      <workItem from="1536037983105" duration="9416000" />
+      <workItem from="1536037983105" duration="9554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10213000" />
+    <option name="totallyTimeSpent" value="10351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -346,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="408">
+          <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
         </state>
       </provider>
     </entry>
