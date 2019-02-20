@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56f0f50a-b6af-435f-b0b8-5bba199846dc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/portfolio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,16 +78,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="255">
+              <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="409">
@@ -136,9 +135,9 @@
         <option value="$PROJECT_DIR$/_includes/services.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/contact.html" />
-        <option value="$PROJECT_DIR$/_includes/portfolio.html" />
         <option value="$PROJECT_DIR$/_sass/_base.scss" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/_includes/portfolio.html" />
       </list>
     </option>
   </component>
@@ -216,12 +215,12 @@
       <updated>1534315746587</updated>
       <workItem from="1534315747754" duration="797000" />
       <workItem from="1536037983105" duration="11417000" />
-      <workItem from="1550643820334" duration="2389000" />
+      <workItem from="1550643820334" duration="2442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14603000" />
+    <option name="totallyTimeSpent" value="14656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -430,13 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -448,6 +440,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="1117" column="12" lean-forward="true" selection-start-line="1117" selection-start-column="12" selection-end-line="1117" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
         </state>
       </provider>
     </entry>
