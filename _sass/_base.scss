@@ -223,7 +223,14 @@ header {
 }
 
 .portfolio-box {
+
     position: relative;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    z-index: 1;
+
+
     display: block;
     max-width: 650px;
     margin: 0 auto;
