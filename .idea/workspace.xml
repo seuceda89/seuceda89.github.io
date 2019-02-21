@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56f0f50a-b6af-435f-b0b8-5bba199846dc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/img/portfolio/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/6.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="56f0f50a-b6af-435f-b0b8-5bba199846dc" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -211,16 +204,15 @@
       <updated>1534315746587</updated>
       <workItem from="1534315747754" duration="797000" />
       <workItem from="1536037983105" duration="11417000" />
-      <workItem from="1550643820334" duration="3785000" />
+      <workItem from="1550643820334" duration="4388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15999000" />
+    <option name="totallyTimeSpent" value="16602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info anchor="bottom" id="TODO" order="6" />
