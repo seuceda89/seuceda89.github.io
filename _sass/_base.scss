@@ -150,14 +150,26 @@ aside {
 // Homepage Header
 
 header {
-    position: relative;
-    width: 100%;
-    min-height:100%;
-    @include background-cover;
-    background-position: center;
-    background-image: url('../img/header.jpg');
-    text-align: center;
-    color: white;
+
+position:fixed;
+width: 80%;
+top: 100px;
+height: 80%;
+background-image:url('../img/header.jpg');
+background-repeat: no-repeat;
+margin: 0 auto;
+background-size: contain;
+background-position: center center;
+height: calc(100vh – 143px);
+
+    // position: relative;
+    // width: 100%;
+    // min-height:100%;
+    // @include background-cover;
+    // background-position: center;
+    // background-image: url('../img/header.jpg');
+    // text-align: center;
+    // color: white;
     .header-content {
         position: relative;
         text-align: center;
